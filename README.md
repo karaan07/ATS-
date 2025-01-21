@@ -1,0 +1,1 @@
+This is a Generative AI Application that utilizes Google Gemini to analyze an individual's CV. The app provides personalized suggestions and feedback to help users enhance and optimize their CVs, ensuring it stands out to potential employers and improves their chances of success.
